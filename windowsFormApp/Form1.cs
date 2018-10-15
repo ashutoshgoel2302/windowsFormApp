@@ -47,6 +47,7 @@ namespace windowsFormApp
             angularEntities.Children.Add(children);
             angularEntities.SaveChanges();
             clearText();
+            MessageBox.Show("Record saved Successfully !!");
         }
 
         public void clearText()
@@ -74,6 +75,7 @@ namespace windowsFormApp
 
                 angularEntities.SaveChanges();
                 clearText();
+                MessageBox.Show("Record Updated Successfully !!");
             }
         }
 
@@ -87,6 +89,7 @@ namespace windowsFormApp
 
                 angularEntities.SaveChanges();
                 clearText();
+                MessageBox.Show("Record Deleted Successfully !!");
             }
         }
     }
