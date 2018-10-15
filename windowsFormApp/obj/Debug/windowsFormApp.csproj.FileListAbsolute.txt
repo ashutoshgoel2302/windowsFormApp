@@ -1,0 +1,16 @@
+D:\windowsFormApp\windowsFormApp\bin\Debug\windowsFormApp.exe.config
+D:\windowsFormApp\windowsFormApp\bin\Debug\windowsFormApp.exe
+D:\windowsFormApp\windowsFormApp\bin\Debug\windowsFormApp.pdb
+D:\windowsFormApp\windowsFormApp\bin\Debug\EntityFramework.dll
+D:\windowsFormApp\windowsFormApp\bin\Debug\EntityFramework.SqlServer.dll
+D:\windowsFormApp\windowsFormApp\bin\Debug\EntityFramework.xml
+D:\windowsFormApp\windowsFormApp\bin\Debug\EntityFramework.SqlServer.xml
+D:\windowsFormApp\windowsFormApp\obj\Debug\windowsFormApp.csprojAssemblyReference.cache
+D:\windowsFormApp\windowsFormApp\obj\Debug\windowsFormApp.Form1.resources
+D:\windowsFormApp\windowsFormApp\obj\Debug\windowsFormApp.Form2.resources
+D:\windowsFormApp\windowsFormApp\obj\Debug\windowsFormApp.Properties.Resources.resources
+D:\windowsFormApp\windowsFormApp\obj\Debug\windowsFormApp.csproj.GenerateResource.cache
+D:\windowsFormApp\windowsFormApp\obj\Debug\windowsFormApp.csproj.CoreCompileInputs.cache
+D:\windowsFormApp\windowsFormApp\obj\Debug\windowsFormApp.csproj.CopyComplete
+D:\windowsFormApp\windowsFormApp\obj\Debug\windowsFormApp.exe
+D:\windowsFormApp\windowsFormApp\obj\Debug\windowsFormApp.pdb
